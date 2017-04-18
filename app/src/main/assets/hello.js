@@ -46,13 +46,13 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	var __weex_template__ = __webpack_require__(1)
-
+	
 	__weex_define__('@weex-component/8e2a728ca214c2831ef401b9169488f7', [], function(__weex_require__, __weex_exports__, __weex_module__) {
-
+	
 	    __weex_module__.exports.template = __weex_template__
-
+	
 	})
-
+	
 	__weex_bootstrap__('@weex-component/8e2a728ca214c2831ef401b9169488f7',undefined,undefined)
 
 /***/ },
@@ -65,10 +65,10 @@
 	    {
 	      "type": "text",
 	      "style": {
-	        "fontSize": 100
+	        "fontSize": 50
 	      },
 	      "attr": {
-	        "value": "Hello World."
+	        "value": "Hello a World."
 	      }
 	    }
 	  ]
